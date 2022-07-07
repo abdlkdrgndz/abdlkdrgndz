@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdlkdrgndz&label=Profile%20views&color=0e75b6&style=flat" alt="abdlkdrgndz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdlkdrgndz" alt="abdlkdrgndz" /></a> </p>
-
 - 🔭 I’m currently working on **Eurotolia Software Ltd**
 
 - I have developed in medium and large scale projects **in many high traffic projects.**
